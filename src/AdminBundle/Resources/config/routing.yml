@@ -1,0 +1,4 @@
+agent:
+    resource: "@AdminBundle/Controller/AgentController.php"
+    prefix:   agent
+    type: annotation
